@@ -40,7 +40,9 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
+
+![WhatsApp Image 2025-11-27 at 11 44 03 PM](https://github.com/user-attachments/assets/30da4a6a-ece4-4af6-bc33-d3b508684224)
+
 
 
 ## MODEL GRAPH
@@ -76,27 +78,13 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
+![WhatsApp Image 2025-11-27 at 11 44 21 PM](https://github.com/user-attachments/assets/884d02bd-5cec-4ea7-a6ca-1ecda8c8e1df)
 
----
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/dbd62ce9-ff97-4039-950b-97ff0cef70e1" />
+
 
  ## 6 B HIGH PASS FILTER
 
@@ -122,7 +110,8 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-<img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
+![WhatsApp Image 2025-11-27 at 11 45 28 PM](https://github.com/user-attachments/assets/60c6a1bd-d497-4c30-bae2-7f9510e5d0df)
+
 
 
 ## MODEL GRAPH
@@ -159,27 +148,13 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+![WhatsApp Image 2025-11-27 at 11 46 30 PM](https://github.com/user-attachments/assets/11232d96-108d-43f8-9802-de6a92931947)
 
----
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/bcb533ac-b2f9-443f-b568-87736faf2a7f" />
+
 
  ## 6C Band Pass Filter
 
@@ -205,7 +180,8 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## CIRCUIT DIAGRAM
 
-<img width="1068" height="446" alt="image" src="https://github.com/user-attachments/assets/ee37b95a-05ea-448c-9102-111e071e41e8" />
+![WhatsApp Image 2025-11-27 at 11 47 42 PM](https://github.com/user-attachments/assets/3bf4f952-2bdc-4109-abbf-bb72fa4c7884)
+
 
 ## MODEL GRAPH
 
@@ -241,30 +217,16 @@ PROCEDURE:BAND PASS FILTER
 6.	Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
 
 
-
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+![WhatsApp Image 2025-11-27 at 11 48 10 PM](https://github.com/user-attachments/assets/fe97dcaa-7081-47c4-92b7-e0759e1bdaa7)
 
----
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+<img width="1280" height="977" alt="image" src="https://github.com/user-attachments/assets/14bcac8d-7703-4757-a131-d0ff5e29ab13" />
+
+
 ##RESULT:
 	Thus an Active Low pass, High pass and Band Pass Filters are designed and
 tested using op-amp IC 741.

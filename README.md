@@ -41,11 +41,12 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ---
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 11 44 03 PM](https://github.com/user-attachments/assets/30da4a6a-ece4-4af6-bc33-d3b508684224)
+<img width="1517" height="1080" alt="image" src="https://github.com/user-attachments/assets/249a80df-a31e-4fa9-8eef-d7d298f52d77" />
 
 
 
 ## MODEL GRAPH
+
 <img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
 
 ---
@@ -78,12 +79,13 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-27 at 11 44 21 PM](https://github.com/user-attachments/assets/884d02bd-5cec-4ea7-a6ca-1ecda8c8e1df)
+<img width="1080" height="1571" alt="image" src="https://github.com/user-attachments/assets/49a52441-7fec-4094-af82-ff8d0957b1fe" />
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/dbd62ce9-ff97-4039-950b-97ff0cef70e1" />
+<img width="1600" height="1005" alt="image" src="https://github.com/user-attachments/assets/0336bdb2-2433-4aa1-9eb2-705f69258d5f" />
+
 
 
  ## 6 B HIGH PASS FILTER
@@ -110,7 +112,8 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 11 45 28 PM](https://github.com/user-attachments/assets/60c6a1bd-d497-4c30-bae2-7f9510e5d0df)
+<img width="1542" height="1080" alt="image" src="https://github.com/user-attachments/assets/1afc4891-1b75-447e-9cbe-16ae33288004" />
+
 
 
 
@@ -180,7 +183,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 11 47 42 PM](https://github.com/user-attachments/assets/3bf4f952-2bdc-4109-abbf-bb72fa4c7884)
+![WhatsApp Image 2025-11-28 at 8 19 24 PM](https://github.com/user-attachments/assets/0a498f21-694f-4ecc-8050-349490615e22)
 
 
 ## MODEL GRAPH
@@ -224,7 +227,7 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1280" height="977" alt="image" src="https://github.com/user-attachments/assets/14bcac8d-7703-4757-a131-d0ff5e29ab13" />
+<img width="1554" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9756a8b-fe56-4762-95a4-7adde10d1acc" />
 
 
 ##RESULT:
